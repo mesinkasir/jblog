@@ -1,0 +1,56 @@
+{
+  "name": "jblog",
+  "version": "1.0.0",
+  "description": "JBLOG - A Json Blog by creativitas dev",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "build": "mkdir -p dist && cp -R public/* dist && cp -R src/* dist && cp server.js dist/",
+    "server": "npx http-server dist"
+  },
+ "nodemonConfig": {
+   "watch": ["server", "public", "src"],
+   "ext": "css,js,json,html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mesinkasir/jblog.git"
+  },
+  "funding": [
+    {
+      "type": "github",
+      "url": "https://github.com/sponsors/mesinkasir/"
+    },
+    {
+      "type": "paypal",
+      "url": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JVZVXBC4N9DAN"
+    },
+    {
+      "type": "coffee",
+      "url": "https://creativitaz.gumroad.com/coffee"
+    }
+  ],
+  "homepage": "https://jblog.axcora.com",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "author": {
+    "name": "Axcora",
+    "email": "https://jblog.axcora.com"
+  },
+  "sourcecodeproject": {
+    "name": "HockeyC",
+    "email": "https://www.hockeycomputindo.com/themes"
+  },
+  "developer": {
+    "name": "Creativitas",
+    "email": "https://creativitas.dev"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
