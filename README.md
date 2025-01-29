@@ -14,8 +14,9 @@ Demo and Documentation: [https://jblog.axcora.com](https://jblog.axcora.com)
 
 ## Features
 
++ Single Page App
 + Static Page
-+ Blog List
++ Dynamic Blog List
 + Blog Pagination
 + Article Page
 + Article Pagination
