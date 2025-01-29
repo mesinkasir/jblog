@@ -1,6 +1,6 @@
 {
   "name": "jblog",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "JBLOG - A Json Blog by creativitas dev",
   "main": "server.js",
   "scripts": {
