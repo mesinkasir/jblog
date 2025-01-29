@@ -1,0 +1,1 @@
+<?php include 'design/main.php'; ?>

@@ -1,0 +1,6 @@
+{
+  "title": "JSON Blog CMS",
+  "description": "Special project for you bloggers who love JSON data - Fast - SEO - Easy!!",
+  "image": "img/jblog-json-blog.webp",
+  "content": "<div class='content-post'><h1>Welcome to JBlog</h1><h2>Special project for you bloggers who love JSON data - Fast - SEO - Easy!!</h2><img src='img/jblog-json.svg' width='300' height='300' alt='How to develop and built website and blog with JSON'/><p>This project is developed by creativitas dev, for bloggers who love JSON as a data implementation.</p><p>For now we are developing it with three versions, static HTML version, Node js version, and PHP version. You can choose it according to your needs. and this is 100% Free full open source code that you can use to help develop your project.</p><p>See Documentation on <a href='https://jblog.axcora.com'>JBLOG Official Site</a></p><p>Make everything easier with JBLOG</p><p>Buy me a cup of coffee</p><p><a href='https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JVZVXBC4N9DAN' class='btn-post no'>🍿 Paypal</a> <a href='https://creativitaz.gumroad.com/coffee' class='btn-post no'>🍮 Coffee</a> <a href='https://github.com/sponsors/mesinkasir/' class='btn-post no'>🥂 Become Sponsor</a></p></div>"
+}

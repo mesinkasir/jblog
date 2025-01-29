@@ -1,81 +1,41 @@
-# JBLOG
+# JBLOG PHP Version
 
-![jblog json blogger](jblog.webp)
+This is the PHP version, or can be called Flatfile.
 
-Simplify blogging with JSON data - For JSON Blogger lovers!!
+You can also use this version of JBLOG if you want to develop your project, with PHP files only.
+Download JBlog PHP in to your PHP host, extract in to your project folder, and run it.
 
-Demo and Documentation: [https://jblog.axcora.com](https://jblog.axcora.com)
+Other solutions you can run `composer create-project axcora/jblog myprojects`
 
----
+For detail documentation you can visit [https://jblog.axcora.com](https://jblog.axcora.com)
 
-### [🚀 Become a Sponsor](https://github.com/sponsors/mesinkasir) | [☕ Buy me Coffee](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JVZVXBC4N9DAN) |  [🍩 Buy me a Donuts](https://creativitaz.gumroad.com/coffee)
+## Update and Configure your site
 
----
+To update your site , you can access in to `data` folder, and update all files with your needs.
 
-## Features
+`config.json` use for sitename, SEO and update navbar.
 
-+ Single Page App
-+ Static Page
-+ Dynamic Blog List
-+ Blog Pagination
-+ Article Page
-+ Article Pagination
-+ Tags
-+ Search Functional
-+ Auto SEO
-+ Metatag
-+ Open Graph
-+ Twitter Card
+`home.json` for update your home page
 
----
+`contact.json` for update your contact static page
 
-## Installation
+`blog.json` you can update your blog post article in to this data, to add new you can simpy copy and paste from previouse example blog post.
 
-Run installation JBLOG
+If you want to create new static page, you can create new `json` file in `data` folder, for example `about.json` , next you can create article with JSON format
 
-`npx jblog-x`
+```
+{
+    "title": "Your title here...",
+    "description": "This is your description...",
+    "image": "OPtional you can use image for twitter card and opengraph",
+    "content": "Write your article content here , you can also use HTML tag code...",
+}
+```
 
-Or you can create new folder for your project name
+For detail documentation you can visit [https://jblog.axcora.com](https://jblog.axcora.com)
 
-`npx jblog-x myproject`
+## Support Us
 
-Next you can open your project folder
+Liove this project ? You can support us by buy me a cup of coffee
 
-`cd myproject`
-
-For first we need to build projects
-
-`npm run build`
-
-Run project
-
-`npm start`
-
-Open `localhost:7000`
-
-Build for production mode
-
-`npm run build`
-
-Test Run Server
-
-`npm run server`
-
----
-
-## Deploy
-
-Run build Production
-
-`npm run build`
-
-Upload `dist` folder in to your host
-
----
-
-Documentation: [https://jblog.axcora.com](https://jblog.axcora.com)
-
----
-
-### [🚀 Become a Sponsor](https://github.com/sponsors/mesinkasir) | [☕ Buy me Coffee](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JVZVXBC4N9DAN) |  [🍩 Buy me a Donuts](https://creativitaz.gumroad.com/coffee)
-
+ [🍩 Buy me a Donuts](https://creativitaz.gumroad.com/coffee)  | [☕ Buy me Coffee](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JVZVXBC4N9DAN) | [🚀 Become a Sponsor](https://github.com/sponsors/mesinkasir) 

@@ -1,6 +1,6 @@
 {
   "siteName": "JBlog",
-  "defaultImage": "/img/jblog-json-blog.webp",
+  "defaultImage": "img/jblog-json-blog.webp",
   "navigation": [
     { "name": "Home", "url": "/" },
     { "name": "About", "url": "/about" },
