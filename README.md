@@ -39,33 +39,47 @@ Node Version run `npx jblog-x`
 
 Run installation JBLOG
 
-```npx jblog-x```
+```
+npx jblog-x
+```
 
 Or you can create new folder for your project name
 
-```npx jblog-x myproject```
+```
+npx jblog-x myproject
+```
 
 Next you can open your project folder
 
-```cd myproject```
+```
+cd myproject
+```
 
 For first we need to build projects
 
-```npm run build```
+```
+npm run build
+```
 
 Run project
 
-```npm start```
+```
+npm start
+```
 
 Open `localhost:7000`
 
 Build for production mode
 
-`npm run build`
+```
+npm run build
+```
 
 Test Run Server
 
-`npm run server`
+```
+npm run server
+```
 
 ---
 
@@ -73,7 +87,9 @@ Test Run Server
 
 Run build Production
 
-```npm run build```
+```
+npm run build
+```
 
 Upload `dist` folder in to your host
 
