@@ -2,7 +2,7 @@
 
 ![jblog json blogger](jblog.webp)
 
-Simplify blogging with JSON data - For Blogger JSON lovers!!
+Simplify blogging with JSON data - For JSON Blogger lovers!!
 
 Demo and Documentation: [https://jblog.axcora.com](https://jblog.axcora.com)
 
