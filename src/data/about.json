@@ -1,0 +1,5 @@
+{
+  "title": "About JBlog - JSON Blog",
+  "description": "What is JBlog and what is it for?",
+  "content": "This is about content article static page, you can access on src/data/about.json"
+}
