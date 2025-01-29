@@ -12,6 +12,22 @@ Demo and Documentation: [https://jblog.axcora.com](https://jblog.axcora.com)
 
 ---
 
+## Features
+
++ Static Page
++ Blog List
++ Blog Pagination
++ Article Page
++ Article Pagination
++ Tags
++ Search Functional
++ Auto SEO
++ Metatag
++ Open Graph
++ Twitter Card
+
+---
+
 ## Installation
 
 Run installation
@@ -38,7 +54,7 @@ Run Server
 
 Run build Production
 
-`npm run built`
+`npm run build`
 
 Upload `dist` folder in to your host
 
