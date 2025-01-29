@@ -31,9 +31,17 @@ Demo and Documentation: [https://jblog.axcora.com](https://jblog.axcora.com)
 
 ## Installation
 
-Run installation
+Run installation JBLOG
 
-`npm install`
+`npx jblog-x`
+
+Or you can create new folder for your project name
+
+`npx jblog-x myproject`
+
+Next you can open your project folder
+
+`cd myproject`
 
 For first we need to build projects
 
@@ -45,7 +53,11 @@ Run project
 
 Open `localhost:7000`
 
-Run Server
+Build for production mode
+
+`npm run build`
+
+Test Run Server
 
 `npm run server`
 
